@@ -15,7 +15,7 @@ This Express.js application utilizes HTML, CSS, Bootstrap, JavaScript, Node.js, 
 ## Usage:
 - Click on the Get Started button provided on the Node Note Express landing page to begin! Once you have been redirected to the notes page, enter the title and text of your note in the required and designated fields before clicking on the save icon that appears on the top right-hand side of the screen to the left of the add (+) icon. Once the save icon is clicked, your note will be saved on the left-hand side of the screen and can be viewed when clicked. Notes can be deleted by clicking on the trash icon to the right of each note.
 
-> *Note: Once a note has been saved, deleting it and its content is irreversible*
+> *Note: Once a note has been saved, deleting it along with its content is irreversible*
 
 - To access Node Note Express, please click [HERE](https://node-note-express.herokuapp.com/)
 
