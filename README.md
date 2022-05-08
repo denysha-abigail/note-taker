@@ -1,27 +1,36 @@
 # Node Note Express
 
-AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-GIVEN a note-taking application
+## Description:
+This Express.js application utilizes HTML, CSS, Bootstrap, JavaScript, Node.js, and Node Package Manager (npm) to provide a front-end note-taking user interface experience in the Heroku Cloud Application Platform.
 
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
+## Table of Contents
+  - [Usage](#usage)
+  - [Preview](#preview)
+  - [Contribution](#contribution)
+  - [Questions](#questions)
+  - [Credits](#credits)
 
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
+## Usage:
+- Click on the Get Started button provided on the Node Note Express landing page to begin! Once you have been redirected to the notes page, enter the title and text of your note in the required and designated fields before clicking on the save icon that appears on the top right-hand side of the screen to the left of the add (+) icon. Once the save icon is clicked, your note will be saved on the left-hand side of the screen and can be viewed when clicked. Notes can be deleted by clicking on the trash icon to the right of each note.
 
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
+> *Note: Once a note has been saved, deleting it and its content is irreversible*
 
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
+- To access Node Note Express, please click [HERE](https://node-note-express.herokuapp.com/)
 
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
+## Preview:
+![Screenshot](./public/assets/images/node-note-express-landing-page.png)
+![Screenshot](./public/assets/images/node-note-express-notes-page.png)
 
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+## Contribution:
+- Forking this repository is always welcomed and encouraged!
 
-[Heroku](https://node-note-express.herokuapp.com/)
+> If you encounter a problem with this application, please add an issue or pull request to the GitHub repository. 
+
+## Questions:
+- Please feel free to use this application at any time and visit my personal [GitHub](https://github.com/denysha-abigail) profile to access other open source projects! 
+
+## Credits:
+- *[Starter Code](https://github.com/coding-boot-camp/miniature-eureka)*
+- *[Denysha Guerrios-Armaiz](https://github.com/denysha-abigail), 05/2022*
